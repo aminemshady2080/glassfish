@@ -10,9 +10,12 @@ Create a DIY app on OpenShift
 
 Create an account at http://openshift.redhat.com/ , don't forget to create a namespace and install client tools as well.
 
-Create a python application
+Create a DIY application
 
     rhc app create -a glassfish -t diy-0.1
+
+Get your GlassFish running
+----------------------------
 
 Grab this quickstart codes and make it working for you!
 
