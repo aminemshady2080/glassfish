@@ -12,7 +12,7 @@ Create an account at http://openshift.redhat.com/ , don't forget to create a nam
 
 Create a DIY application
 
-    rhc app create -a glassfish -t diy-0.1
+    rhc app create glassfish diy-0.1
 
 Get your GlassFish running
 ----------------------------
