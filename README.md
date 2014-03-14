@@ -8,7 +8,7 @@ NOTE: admin console of GlassFish is disabled in this sampel app.
 Create a DIY app on OpenShift
 ----------------------------
 
-Create an account at http://openshift.redhat.com/ , don't forget to create a namespace and install client tools as well.
+Create an account at https://www.openshift.com , don't forget to create a namespace and install client tools as well.
 
 Create a DIY application
 
