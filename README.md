@@ -20,7 +20,7 @@ Get your GlassFish running
 Grab this quickstart codes and make it working for you!
 
     cd glassfish
-    git remote add upstream -m master git://github.com/openshift/openshift-glassfish3-sample.git
+    git remote add upstream -m master git://github.com/openshift-quickstart/openshift-glassfish3-sample.git
     git pull -s recursive -X theirs upstream master
     git push
 
