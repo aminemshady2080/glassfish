@@ -44,9 +44,3 @@ of use.  The following list are some common variables but far from exhaustive:
 
 To get a full list of environment variables, simply add a line in your
 .openshift/action_hooks/build script that says "export" and push.
-
-
-Additional information
-======================
-
-Link to additional information will be here, when we have it :)
